@@ -27,10 +27,12 @@ Analyzing the distribution of numerical and categorical features.
 Identifying outliers and handling missing data.
 Encoding categorical features using one-hot encoding.
 Checking feature correlations with the target variable.
+
 🧠 Modeling
 Three regression algorithms were employed for predicting house prices:
 
 Linear Regression: Provides a simple baseline model.
+
 K-Nearest Neighbors (KNN): Captures non-linear relationships by considering the nearest data points.
 Random Forest Regressor: An ensemble method that reduces overfitting and boosts predictive accuracy.
 Model Evaluation
